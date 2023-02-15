@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @YoussAbboud
-- 👀 Interested in Android Development and Software Engineering.
-- 🌱 Currently learning React.js as a new Way to develop my Applications.
-- 💞️ Looking to collaborate on Projects related to Mobile Development and Web Development.
-- 📫 How to reach me my personal email: yousboud@hotmail.com
+- 📫 for enquires and buisness: yousboud@hotmail.com
